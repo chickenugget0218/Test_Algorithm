@@ -1,7 +1,5 @@
-# Test_Algorithm
-
-* 코딩테스트 준비</br>
-* 구현
+## 코딩테스트
+* 문자열
 * 그리디(Greedy Algorithm)
 * 투포인터
 * 이분탐색(Binary Search)
@@ -11,8 +9,20 @@
 * 그래프(위상정렬,크루스칼)
 
 
-# 직무역량시험영역
+## 데이터 분석
+- Pandas EDA
+- 데이터 전처리
+- 크롤링
+
+
+## 머신러닝 기본 개념
+- 기초통계
+- RandomForest
+- XGBoost
+
+
+## 네트워크
 * Network
 * OS
 * Cloud
-* Architecture
+* 컨테이너/도커
